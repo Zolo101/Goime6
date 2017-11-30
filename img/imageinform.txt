@@ -1,0 +1,1 @@
+goime.png is a 128x128 sprite. (resized down to 32x32 in-game)
